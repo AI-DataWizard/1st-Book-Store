@@ -338,7 +338,7 @@ section {
       rgba(255, 255, 255, 0.3),
       rgba(255, 255, 255, 0.3)
     ),
-    url("/assets/banner.jpg");
+    url("banner.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -528,7 +528,7 @@ section {
 
 /*Newsletter Section*/
 .newsletter {
-  background: url(/assets/letter.jpg) no-repeat;
+  background: url(letter.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
